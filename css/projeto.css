@@ -1,0 +1,49 @@
+#lista{
+    color: white;
+    text-decoration: none;
+    padding: 50px;
+    text-align: center;
+}
+
+img{
+    margin: 8%;
+    padding: auto;
+}
+h2{
+    text-align: center  ;
+    text-decoration: none;
+    margin-bottom: 50px;
+    margin: 8%;
+}
+#Contatos{
+    color: white;
+}
+.body{ /* selecionar conforme o descrito
+    podendo alterar a tag pai */
+    color: white;
+}
+
+
+#Series,#Animes{
+   
+   margin: 7%;
+   padding: auto;
+   
+}
+#Series a,#Animes a {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    /*display block para alinhar em linhas*/
+}
+
+#Series a img, 
+#Animes a img{
+    
+    height: 261px;
+    width: 135px;
+    object-fit: cover;
+    /* junção para mesma função ,#*/ 
+}
+
+
