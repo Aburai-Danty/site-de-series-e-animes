@@ -1,1 +1,1 @@
-# site-de-series-e-animes
+Site Redirecionador para ver animes e series 
